@@ -20,4 +20,3 @@ function firstListItem(){
   $('ul pic-list:first-child')
 }
 // declare your functions here...
-
