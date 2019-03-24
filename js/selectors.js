@@ -17,6 +17,6 @@ function divSelector(){
 }
 
 function firstListItem(){
-  var x = $(' #pic-list:first-child')
+  return $('#pic-list:first-child')
 }
 // declare your functions here...
