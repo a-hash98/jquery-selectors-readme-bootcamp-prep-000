@@ -1,1 +1,3 @@
+$('img')
+
 // declare your functions here...
