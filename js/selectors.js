@@ -17,6 +17,6 @@ function divSelector(){
 }
 
 function firstListItem(){
-  return $('#pic-list:first-child')
+  return $('.pics:last')
 }
 // declare your functions here...
