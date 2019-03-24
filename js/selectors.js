@@ -21,5 +21,6 @@ function firstListItem(){
   console.log(l)
   var x = $('l img:first-child')
   console.log(x)
+  return x
 }
 // declare your functions here...
